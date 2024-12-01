@@ -3,7 +3,7 @@
 
 Hello I am Elisha Longino, I am an Electrical Engineering major planning to graduate in 2028. 
 
-# Favorite 120L Labs
+## Favorite 120L Labs
 
 * Lab 4 Part 2
 
